@@ -1,0 +1,18 @@
+h2 {
+    font-size: medium; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: bold; 
+    font-style: italic;
+}
+
+.quest-title {
+font-style: italic;
+color: blue;
+font-weight: bolder;
+
+}
+
+#Search {
+
+    font-weight: bolder; font-size: large;
+}
